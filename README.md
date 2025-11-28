@@ -52,11 +52,6 @@ I enjoy building quick prototypes end-to-end in hackathons and exploring ML / AI
 
 ---
 
-## 📫 Contact / Links
-
-- GitHub: *(your GitHub profile link)*  
-- Email: *(your email, if you want to share)*  
-- LinkedIn: *(your LinkedIn profile link)*  
 
 ---
 
