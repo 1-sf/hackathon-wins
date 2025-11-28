@@ -20,7 +20,7 @@ I enjoy building quick prototypes end-to-end in hackathons and exploring ML / AI
 ### 🥇 1. Verkada Hackathon — **1st Place**  
 **Project:** Golden Eye  
 - Built a monitoring system that detects when a specific object goes missing in multi-camera CCTV footage.  
-- Finetuned EfficientDet on ~500 labeled frames extracted from HLS streams across 5 cameras.  
+- Finetuned [EfficientDet](https://arxiv.org/abs/1911.09070) on ~500 labeled frames extracted from HLS streams across 5 cameras.  
 - Triggered real-time alerts during inference when the object disappeared.  
 - Fully working prototype demo’d live — won first prize.  
 
